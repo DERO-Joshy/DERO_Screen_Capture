@@ -13,9 +13,9 @@ Local Screenshot tool built in Python.
 ## To Add
 * Run at start
 * Multi Display Functionality
-* video Capture
+* Video Capture
 * Live Stream capability
-* option to direct upload to file sharing site
+* Option to direct upload to file sharing site
 
 ## Contributing
 
